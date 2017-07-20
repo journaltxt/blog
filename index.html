@@ -1,9 +1,9 @@
 ---
-title: Welcome
+title:  Servus
 layout: default
 ---
 
-<h1>Servus, Austria! Hallo, Vienna!</h1>
+<!-- <h1>Servus, Austria! Hallo, Vienna!</h1> -->
 
 <p>
 Welcome to the 
@@ -12,7 +12,7 @@ Journal.TXT Blog Live Sample w/ Jekyll (and GitHub Pages) - Auto-Built from
 </p>
 
 
-<h2 style="margin-top: 24px;">What's Going On?</h2>
+<h2 style="margin-top: 24px;">What's News?</h2>
 
 
 {% for post in site.posts limit:5 %}
@@ -20,7 +20,7 @@ Journal.TXT Blog Live Sample w/ Jekyll (and GitHub Pages) - Auto-Built from
 <article class="post">
 
   <header class="post-header">
-   <!-- <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p> -->
+    <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><h1 class="post-title">{{ post.title | escape }}</h1></a>
   </header>
 
