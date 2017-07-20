@@ -1,9 +1,12 @@
-# Journal.TXT Blog Live Sample w/ Jekyll (and GitHub Pages) - Auto-Built from Vienna.TXT
+# Vienna.TXT Blog 
+
+_Journal.TXT Blog Live Sample w/ Jekyll (and GitHub Pages) - Auto-Built from Vienna.TXT_
+
+**See [journaltxt.github.io/blog »](https://journaltxt.github.io/blog)**
 
 
-See [journaltxt.github.io/blog](https://journaltxt.github.io/blog)
 
-Source - (Vienna.TXT)[https://github.com/journaltxt/journaltxt.github.io/blob/master/samples/Vienna.txt]:
+Source - [samples/Vienna.TXT](https://github.com/journaltxt/journaltxt.github.io/blob/master/samples/Vienna.txt):
 
 ``` text
 
