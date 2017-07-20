@@ -3,17 +3,12 @@ title:  Servus
 layout: default
 ---
 
-<!-- <h1>Servus, Austria! Hallo, Vienna!</h1> -->
-
 <p>
 Welcome to the 
 Journal.TXT Blog Live Sample w/ Jekyll (and GitHub Pages) - Auto-Built from
 <a href="https://github.com/journaltxt/journaltxt.github.io/blob/master/samples/Vienna.txt">Vienna.TXT</a>.
 </p>
 
-<!--
-<h2 style="margin-top: 24px;">What's News?</h2>
--->
 
 {% for post in site.posts limit:5 %}
 
@@ -30,3 +25,6 @@ Journal.TXT Blog Live Sample w/ Jekyll (and GitHub Pages) - Auto-Built from
 </article>
 
 {% endfor %}
+
+
+<p class="rss-subscribe">subscribe to <a href="{{ "/feed.xml" | prepend: site.baseurl }}">web feed</a></p>
