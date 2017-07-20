@@ -1,6 +1,11 @@
 ### your site title here
 
-title: "Three Days in Vienna, Austria"
+title:       "Three Days in Vienna, Austria"
+description: "Journal.TXT Blog Live Sample w/ Jekyll (and GitHub Pages) - Auto-Built from Vienna.TXT"
+
+author: Your Name Here
+
+github_username:  journaltxt
 
 
 ### let's use the minima theme (see https://github.com/jekyll/minima)
