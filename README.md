@@ -40,4 +40,4 @@ Passing through the Palais Lichtenstein to the
 Beaver Brewing Co. (Liechtensteinstraße 69). [...]
 ```
 
-(Source - [samples/Vienna.TXT](https://github.com/journaltxt/journaltxt.github.io/blob/master/samples/Vienna.txt))
+(Source: [samples/Vienna.TXT](https://github.com/journaltxt/journaltxt.github.io/blob/master/samples/Vienna.txt))
