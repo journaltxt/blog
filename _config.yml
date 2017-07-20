@@ -3,7 +3,8 @@
 title:       "Three Days in Vienna, Austria"
 description: "Journal.TXT Blog Live Sample w/ Jekyll (and GitHub Pages) - Auto-Built from Vienna.TXT"
 
-author: Your Name Here
+### your name here
+author: Ferdi Hölzl
 
 github_username:  journaltxt
 
@@ -15,5 +16,5 @@ theme: minima
 
 ### exclude the instructions / write-up in the README.md
 
-## exclude:
-## - README.md
+exclude:
+- README.md
