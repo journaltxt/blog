@@ -5,9 +5,6 @@ _Journal.TXT Blog Live Sample w/ Jekyll (and GitHub Pages) - Auto-Built from Vie
 **See [journaltxt.github.io/blog »](https://journaltxt.github.io/blog)**
 
 
-
-Source - [samples/Vienna.TXT](https://github.com/journaltxt/journaltxt.github.io/blob/master/samples/Vienna.txt):
-
 ``` text
 
 ---
@@ -42,3 +39,5 @@ need a beer therapy soon.
 Passing through the Palais Lichtenstein to the
 Beaver Brewing Co. (Liechtensteinstraße 69). [...]
 ```
+
+(Source - [samples/Vienna.TXT](https://github.com/journaltxt/journaltxt.github.io/blob/master/samples/Vienna.txt))
